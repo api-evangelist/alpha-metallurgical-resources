@@ -7,4 +7,7 @@ description: 'Profile for Alpha Metallurgical Resources in the API Evangelist ne
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/alpha-metallurgical-resources
 apis: []
